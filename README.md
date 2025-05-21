@@ -72,7 +72,8 @@ cd game-analytics-project
 ⚠️ Yazan is struggling with Grid 8x8 and Theme "Realistic". Try adding a tutorial element.
 
 ## 🎥 Demo Video 
-
+https://www.loom.com/share/a7326f05b9594ccdb198e76041e65efc?sid=fc4ccca9-1eb9-4a66-abc1-9007dd065475
+https://www.loom.com/share/c71331d1bca3402dbace05b1dacb9999?sid=dc0db6f6-06b5-463d-a41f-4d73ba3f5ace
 
 ## 🙋 The student
 👤 Shahd Majed Mlitat
